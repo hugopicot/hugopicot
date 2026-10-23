@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-monolith.png" width="100%" alt="Hugo Picot — Build, learn, ship" />
+  <img src="./assets/hugo-picot-banner.gif" width="100%" alt="Animated overview of Hugo Picot's current projects: live transit, football probabilities, agricultural knowledge and a cinema web product" />
 </p>
 
 ### 01 / ABOUT
